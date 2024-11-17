@@ -39,6 +39,7 @@ Finalmente si no ingresa ningun datos se mostraran ambos errores.
 
 ### Usuario no encontrado 
 En este caso el usuario con el correo administrador@gmail.com no esxite por lo tanto nos muestra el mensaje de esta manera.
+
 ![image](https://github.com/user-attachments/assets/53612611-540f-4477-8d43-63b12c554dc5)
 
 
