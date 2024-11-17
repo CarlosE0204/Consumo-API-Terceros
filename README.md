@@ -23,6 +23,7 @@ Para este trabajo no se utilizó el auth que es una manera mucho más segura de 
 
 ## Ejecución
 ![image](https://github.com/user-attachments/assets/4f91defe-829a-4480-93d8-636a038dd403)
+
 Cuando el usuario y contraseña ingresados son correctos nos envía a la página del home.
 ![image](https://github.com/user-attachments/assets/d765dcc1-dff6-44ff-9fba-cd6331491715)
 
